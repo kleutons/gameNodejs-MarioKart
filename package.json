@@ -1,5 +1,5 @@
 {
-  "name": "GameMarioKart",
+  "name": "gamemariokart",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -8,5 +8,16 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "Desafio de projeto BackEnd Node.js: Mario Kart.JS",
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kleutons/gameNodejs-MarioKart.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kleutons/gameNodejs-MarioKart/issues"
+  },
+  "homepage": "https://github.com/kleutons/gameNodejs-MarioKart#readme"
 }
